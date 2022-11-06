@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://harrygirard.github.io/GH-Pages/sitemap.xml
